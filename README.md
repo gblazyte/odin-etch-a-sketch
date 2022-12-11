@@ -1,1 +1,2 @@
 # odin-etch-a-sketch
+This is my code for the Etch-A-Sketch project in The Odin Project Foundations course where I am using JavaSricpt to create a browser version of a sketchpad and an Etch-A-Sketch. The requirements for the project were provided by The Odin Project at https://www.theodinproject.com/lessons/foundations-etch-a-sketch.
