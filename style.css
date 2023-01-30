@@ -1,8 +1,6 @@
-body {
+/* body {
     height: 100vh
-}
-
-;
+} */
 
 .main {
     display: flex;
@@ -13,17 +11,15 @@ body {
 }
 
 .container {
-    display: flex;
-    flex-wrap: wrap;
-    width: 950px;
-    height: 50%;
-    margin-top: 40px;
+    display: grid;
+    width: 500px;
+    height: 500px;
 }
 
 .square {
     border: 1px solid black;
-    width: 25px;
-    height: 25px;
+    /* width: 25px;
+    height: 25px; */
 }
 
 .div-color {
